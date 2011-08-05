@@ -29,8 +29,3 @@ sudo apt-get install libgl1-mesa-dev
 
 ./makeODE
 
-
-5. Run it:
-
-./M3
-
